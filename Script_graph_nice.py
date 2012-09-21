@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-
+
 from pygraphviz import *
 
 G=AGraph(strict=True, directed=True)
